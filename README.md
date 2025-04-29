@@ -55,5 +55,7 @@ Uso personal y educativo.
 </p>
 
 <p align="center">
-	<a href="/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+	<a href="/LICENSE" target="_blank">
+		<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="Licencia Creative Commons BY-NC-SA 4.0" />
+	</a>
 </p>
